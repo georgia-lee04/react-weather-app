@@ -10,22 +10,14 @@ export default function Footer() {
         rel="noreferrer"
       >
         Georgia Lee
-      </a>
-      , open-sourced on{" "}
+      </a>{" "}
+      and is open-sourced on{" "}
       <a
-        href="https://github.com/georgia-lee04/my-weather-app"
+        href="https://github.com/georgia-lee04/react-weather-app"
         target="_blank"
         rel="noreferrer"
       >
         GitHub
-      </a>{" "}
-      and hosted on{" "}
-      <a
-        href="https://weather-app-shecodes-plus-project.netlify.app/"
-        target="_blank"
-        rel="noreferrer"
-      >
-        Netlify
       </a>
     </footer>
   );
